@@ -12,7 +12,7 @@
 
 [Декомпозиция требований](https://miro.com/app/board/uXjVMPj0DU0=/)
 
-Mind_Map.pdf
+![Image](Mind_Map_page-0001.jpg)
 
 
 [Баг-репорт требований ТЗ раздела корзина](https://docs.google.com/spreadsheets/d/1zDY8iHoild21oKsm2D0sk1M0gFhRMOsTsIFD9aWkxVM/edit?usp=sharing)
